@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Cstudy\binarytreeBase\main.c(72,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Cstudy\binarytreeBase\main.c(72,12): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Cstudy\binarytreeBase\main.c(72,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Cstudy\binarytreeBase\main.c(72,12): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  binarytreeBase.vcxproj -> C:\Cstudy\binarytreeBase\x64\Debug\binarytreeBase.exe

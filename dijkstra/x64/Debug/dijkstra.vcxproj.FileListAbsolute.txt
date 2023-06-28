@@ -1,0 +1,1 @@
+C:\Cstudy\dijkstra\x64\Debug\dijkstra.exe
